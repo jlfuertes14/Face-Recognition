@@ -69,9 +69,9 @@ Features:
 <!-- SCREENSHOTS -->
 ## Screenshots
 
-![App UI](assets/screenshot.png)
+![Live Recognition UI](assets/demo.png)
 
-Save the attached screenshot as `assets/screenshot.png` to display it here.
+Live recognition mode with HUD and registered identity.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
